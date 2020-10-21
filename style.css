@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+body{
+    background-color: #DDEAF7 ;
+}
+.pinggiratas{
+    padding: 20px 0;
+    background-color: #4EA9FF;
+
+}
+header h1 {
+    
+    float: left;
+    padding: 15px 0;
+    color:#4EA9FF ;
+}
+header ul{
+    
+    float: right;
+}
+.a {
+    width: 80%;
+    margin: auto;
+    
+}
+header ul li {
+    display: inline-block;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+}
+.pemisah {
+    padding: 30px;
+    margin: auto;
+}
+.gambar {
+    height: 400px;
+    width: auto;
+    background-image: url('./img/background.jpg');
+    border: 1px solid;
+    background-size: 1000px;
+}
+p {
+    margin: 10px 5px;
+}
+h2 {
+    margin: 10px;
+
+}
+p {
+    margin: 10px;
+}
+ul li {
+    margin: 10px;
+}
+table {
+    padding: 5px;
+    margin: auto;
+}
